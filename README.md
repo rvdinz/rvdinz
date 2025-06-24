@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Rudin
+
+Hey, I'm Rvdinz! I'm really into coding and love working with anything related to the hosting industry. I’m especially into server stuff and managing how things run behind the scenes. I'm a manager over at XA Hosting, check them out [here](https://xahosting.co)!
 
 <!--
 **rvdinz/rvdinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
