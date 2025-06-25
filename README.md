@@ -10,4 +10,5 @@ Currently, I'm a manager at **[XA Hosting](https://xahosting.co)** - This is a c
 - [X (formally Twitter)](https://x.com/rvdinz)
 - [Mail](mailto:reduan@xahosting.co)
 - [Youtube](https://www.youtube.com/@rvdinz)
+- [Twitch](https://www.twitch.tv/rvdinz)
 - [Steam](https://steamcommunity.com/id/rvdinz/)
