@@ -1,18 +1,13 @@
-## Hi there 👋 I'm Rudin
+# 🚀 Rvdinz/Rudin
 
-I'm really into coding and love working with anything related to the hosting industry. I’m especially into server stuff and managing how things run behind the scenes. I'm a manager over at XA Hosting, check them out [here](https://xahosting.co)!
+I'm really into coding and love working with anything related to the hosting industry. I’m especially into server stuff and managing how things run behind the scenes.
 
-<!--
-**rvdinz/rvdinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I'm a manager at **[XA Hosting](https://xahosting.co)** - This is a company that offers reliable and high-performance hosting solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Follow me at:
+- [X (formally Twitter)](https://x.com/rvdinz)
+- [Mail](mailto:reduan@xahosting.co)
+- [Youtube](https://www.youtube.com/@rvdinz)
+- [Steam](https://steamcommunity.com/id/rvdinz/)
